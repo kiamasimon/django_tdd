@@ -1,5 +1,5 @@
-## Test Driven Development Illustration In Django
-
+## Test Driven Development Illustration In Django(Selenium/ChromeDriver)
+    `Includes some units tests and functional test samples'
 ### Getting Started
 
 The following instruction will help you set up the project as a developer.
